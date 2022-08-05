@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 500px;
+  background-color: green;
+}
+
+
+.container h1{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: rgb(212, 55, 55);
+}

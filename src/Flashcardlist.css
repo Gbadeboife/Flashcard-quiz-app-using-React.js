@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.flashcards{
+    height: 100%;
+    width: 75%;
+    margin: auto;
+}
+
+@media screens and (max-width:1000px) {
+    .flashcards{
+        width: 90%;
+    }
+} 
