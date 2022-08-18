@@ -9,6 +9,7 @@
     margin-right: 1%;
     margin-bottom: 20px;
     display: inline-block;
+    vertical-align:top;
     position: relative;
     padding:  30px;
     box-sizing: border-box;
